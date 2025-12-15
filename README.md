@@ -8,6 +8,9 @@ The application allows users to:
 
 and instantly receive sentiment predictions.
 
+#### 🔗 Demo 
+Check it out 👉🏻 https://moodify2-o.vercel.app
+
 ---
 
 ## 🚀 Features
