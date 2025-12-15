@@ -89,5 +89,9 @@ python app.py
 ### Screenshot showing sentiment result 
 <img width="1625" height="825" alt="image" src="https://github.com/user-attachments/assets/00046ec3-a9f4-43cd-8668-2beda80ddb01" />
 
+### Screenshot showing table of reviews and sentiments
+<img width="1899" height="986" alt="image" src="https://github.com/user-attachments/assets/c8cd5510-7b1d-482b-b0e5-a4f96841abe3" />
+
+
 
 
