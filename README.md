@@ -75,6 +75,8 @@ cd Moodify-WebApp
 # Backend setup
 cd Backend
 pip install -r requirements.txt
+# Run Flask app
+python app.py
 ```
 ---
 
@@ -84,9 +86,8 @@ pip install -r requirements.txt
 
 <img width="1898" height="977" alt="image" src="https://github.com/user-attachments/assets/ea9c34fb-d50e-493c-b43c-65768f1894a1" />
 
-### [ Screenshot showing sentiment result ]
+### Screenshot showing sentiment result 
 <img width="1625" height="825" alt="image" src="https://github.com/user-attachments/assets/00046ec3-a9f4-43cd-8668-2beda80ddb01" />
 
 
-# Run Flask app
-python app.py
+
